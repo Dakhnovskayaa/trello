@@ -1,0 +1,9 @@
+.button-home {
+    margin: 10px;
+    background-color: #4f4b4b;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    color: #ffffff;
+    text-decoration: none;
+}
